@@ -116,8 +116,8 @@ const char* errors = errorTracker_getErrorString(errorTracker_flags);
 ## License & Author
 MIT / Beerware.
 
-If you find this useful, buy the author a beer 🍺 :)
-Dovydas Bružas, Lithuania Dovydisimo@gmail.com
+If you find this useful, buy the author a beer 🍺 :) \
+**Dovydas Bružas, Lithuania Dovydisimo@gmail.com
 
 ## Changelog
 
